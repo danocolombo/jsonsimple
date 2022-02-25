@@ -1,0 +1,24 @@
+{
+	"uid": "c45d9046-7667-45db-8c16-60071821ba25",
+	"lastName": "Qualer",
+	"state": "NY",
+	"email": "doug.qualer@gmail.com",
+	"phone": "7077780821",
+	"firstName": "Doug",
+	"residence": {
+		"stateProv": "NY",
+		"city": "Albany",
+		"street": "1234 Joan Drive",
+		"postalCode": "12345"
+	},
+	"children": [
+		{
+		"name": "Woody",
+		"age": 5},
+		{
+			"name": "Lucy",
+			"age": 7
+		}
+	],
+	"isLoggedIn": true
+}

@@ -1,0 +1,64 @@
+{
+	"users": [
+		{
+			"uid": "c45d9046-7667-45db-8c16-60071821ba25",
+			"lastName": "Colombo",
+			"residence": {
+				"stateProv": "GA",
+				"city": "Columbus",
+				"street": "2304 Leah Drive",
+				"postalCode": "31909"
+			},
+			"stateRep": "GA",
+			"email": "danocolombo@gmail.com",
+			"phone": "7066042494",
+			"firstName": "Dano",
+			"church": {
+				"name": "Wynnbrook Church",
+				"stateProv": "GA",
+				"city": "Columbus"
+			},
+			"isLoggedIn": true
+		},
+		{
+			"uid": "3a9ede0a-7951-474c-9e6e-e0437613e50f",
+			"lastName": "Account",
+			"residence": {
+				"stateProv": "TT",
+				"city": "Jordan Valley",
+				"street": "1 Main St.",
+				"postalCode": "12345"
+			},
+			"stateRep": "TT",
+			"email": "danocolombo@gmail.com",
+			"phone": "7066042494",
+			"stateLead": "TT",
+			"firstName": "TTLead",
+			"church": {
+				"name": "His Church",
+				"stateProv": "TT",
+				"city": "Jordan Valley"
+			}
+		},
+		{
+			"uid": "dab7ca09-95c5-4a39-8301-2683e768f181",
+			"lastName": "Guru",
+			"residence": {
+				"stateProv": "GA",
+				"city": "Columbus",
+				"street": "2304 Leah Dr",
+				"postalCode": "31909"
+			},
+			"email": "fortsonguru@gmail.com",
+			"phone": "7066042494",
+			"stateLead": "GA",
+			"firstName": "Fortson",
+			"church": {
+				"name": "Home Church",
+				"stateProv": "GA",
+				"city": "Columbus"
+			},
+			"isLoggedIn": true
+		}
+	]
+}
